@@ -4,6 +4,8 @@
 
 
 <div align="center">
+<h3>안녕하세요 백엔드 개발자 지망생입니다<br>아직 부족한 부분이 많고 배우는 중이지만 포기하지 않고 배우겠습니다🏋️‍♂️</h3>
+
   <h1>⚒Tech Stack⚒</h1>
   <h5>💡Used as the main</h5>
 <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge"/>

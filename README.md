@@ -22,6 +22,6 @@
   
   <h5>📞SNS list</h5>
   <a href="https://www.instagram.com/99_k.ys" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <a href="https://www.instagram.com/99_k.ys](https://yooseong12.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+    <a href="https://yooseong12.tistory.com)" target="_blank"><img src="https://img.shields.io/badge/-Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
   
   </div>
